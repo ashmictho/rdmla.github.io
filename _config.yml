@@ -12,7 +12,7 @@ facebook_username: TheRDMLA
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # plugins
 plugins:
